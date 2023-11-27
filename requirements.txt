@@ -1,0 +1,6 @@
+Django==4.2.6
+phonenumbers==8.13.23
+Faker==19.11.0
+drf-spectacular==0.26.5
+model-bakery==1.16.0
+parameterized==0.9.0
